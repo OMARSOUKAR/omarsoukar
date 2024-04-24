@@ -1,4 +1,8 @@
-This guide provides an index of network details for the Polygon Mumbai Testnet and Polygon PoS Mainnet, including their associated RPC and node endpoints.
+---
+comments: true
+---
+
+This guide provides an index of network details for the Polygon Amoy testnet and Polygon PoS mainnet, including their associated RPC and node endpoints.
 
 ## Network details
 
@@ -98,7 +102,7 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [Dwellir](https://www.dwellir.com/networks/polygon)
 - [GetBlock](https://getblock.io/en/)
 - [Infura](https://infura.io)
-- [Moralis](https://moralis.io)
+- [Moralis](https://moralis.io/nodes/?utm_source=polygon-docs&utm_medium=partner-docs)
 - [NodeReal](https://nodereal.io)
 - [OnFinality](https://onfinality.io/)
 - [QuickNode](https://www.quicknode.com/chains/matic)
@@ -112,5 +116,6 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [Stackup](https://www.stackup.sh/)
 - [1RPC](https://1rpc.io/)
 - [4EVERLAND](https://docs.4everland.org/rpc-beta/polygon)
+- [SubQuery](https://subquery.network/rpc)
 
 For a complete list of public endpoints, visit [Alchemy's Chain Connect](https://www.alchemy.com/chain-connect/chain/polygon-pos) and [Chainlist](https://chainlist.org/?search=Polygon+Mainnet).

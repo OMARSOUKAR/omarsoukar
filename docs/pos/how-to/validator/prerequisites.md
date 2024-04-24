@@ -1,3 +1,6 @@
+---
+comments: true
+---
 
 ## Before setting up the Validator node
 
@@ -32,6 +35,10 @@ sudo apt install erlang
 wget https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.10.8/rabbitmq-server_3.10.8-1_all.deb
 sudo dpkg -i rabbitmq-server_3.10.8-1_all.deb
 ```
+
+## Validator best practices
+
+See the doc on [validator best practices](../operate-validator-node/validator-best-practices.md) for tips on how to keep your validator node secure and operational.
 
 ## Mandatory Checklist for Validator Setup
 
@@ -94,7 +101,7 @@ sudo dpkg -i rabbitmq-server_3.10.8-1_all.deb
     Below are some additional information to the official documentation which might help while setting up a new node.
 
 
-This document gives some additional details for setting up a new node based on [full node deployment](/pos/how-to/full-node/full-node-binaries) guide.
+This document gives some additional details for setting up a new node based on [full node deployment](../../how-to/full-node/full-node-binaries.md) guide.
 
 - VPN setup is required before proceeding with any of these steps.
 - If you are using Macbook, it has native Python 2.7 available which **needs to be replaced by with anything Python 3.x**.
