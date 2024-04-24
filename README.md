@@ -1,29 +1,4 @@
-# Polygon Knowledge Layer
-
-Welcome to the Polygon Knowledge Layer.
-
-These docs use [the Material theme for MkDocs](https://squidfunk.github.io/mkdocs-material/). Our goal is to establish a high-quality, curated, and comprehensive "source of truth" for Polygon's technology. 
-
-This includes sections on:
-
-- Polygon CDK
-- Polygon zkEVM
-- Polygon PoS
-- Polygon Miden
-- Developer tools 
-
-## Run locally
-
-### Prerequisites
-
-1. [Python 3.12](https://www.python.org/downloads/).
-2. [`virtualenv`](https://pypi.org/project/virtualenv/): Install using `pip3 install virtualenv`.
-
-### Setup
-
-1. Clone the repository.
-2. `cd` to the root.
-3. Run the `run.sh` script. You may need to make the script executable: `chmod +x run.sh`
+   #+x run.sh`
 
 ```sh
 ./run.sh
